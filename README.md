@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/pmorie/go-open-service-broker-client/badge.svg)](https://coveralls.io/github/pmorie/go-open-service-broker-client)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pmorie/go-open-service-broker-client)](https://goreportcard.com/report/github.com/pmorie/go-open-service-broker-client)
 [![Godoc documentation](https://img.shields.io/badge/godoc-documentation-blue.svg)](https://godoc.org/github.com/pmorie/go-open-service-broker-client)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fgo-open-service-broker-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fgo-open-service-broker-client?ref=badge_shield)
 
 A golang client for communicating with service brokers implementing the
 [Open Service Broker API](https://github.com/openservicebrokerapi/servicebroker).
@@ -93,3 +94,6 @@ This project does not aim to provide:
 ### Code of Conduct
 
 Participation in this repository is governed by the [CNCF Code of Conduct](./code-of-conduct.md).
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fgo-open-service-broker-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fgo-open-service-broker-client?ref=badge_large)
